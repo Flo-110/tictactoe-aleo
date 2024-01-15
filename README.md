@@ -1,3 +1,7 @@
+Created by Sub-account of FermiGBM (Account inaccessible due to a locked email address)
+
+Original account: https://github.com/fermigbm
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
