@@ -2,7 +2,7 @@ Created by Sub-account of FermiGBM (Account inaccessible due to a locked email a
 
 Original account: https://github.com/fermigbm
 
-* *From Tutorial:* * 
+*From Tutorial:*
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
